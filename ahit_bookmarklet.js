@@ -4,7 +4,7 @@
 // License: MIT
 
 (function() {
-  var ASSET = "https://archive.org/download/QYjhVX7/QYjhVX7.gif";
+  var ASSET = "https://icelander900.github.io/bookmarklets/Smug_Dance.gif";
   var WIDTH = 212;
   var HEIGHT = 104;
   var VERT_DIRECTIONS = ["up", "down"];
