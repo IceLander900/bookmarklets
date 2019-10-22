@@ -4,7 +4,7 @@
 // License: MIT
 
 (function() {
-  var ASSET = "https://icelander900.github.io/bookmarklets/fat-yoshi-big-yoshi.png";
+  var ASSET = "https://icelander900.github.io/bookmarklets/fat-yoshi-big-yoshi-2.png";
   var WIDTH = 212;
   var HEIGHT = 104;
   var VERT_DIRECTIONS = ["up", "down"];
